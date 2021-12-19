@@ -19,7 +19,7 @@ For this project, I aimed to build a Machine Learning pipeline to identify users
 ## File Descriptions <a name="files"></a>
 
     - Sparkify.ipynb - Jupyther notebook containing Python code
-    - mini_sparkify_event_data.json - mini-dataset of user events
+    - mini_sparkify_event_data.zip - mini-dataset of user events
 
 ## Results<a name="results"></a>
 
