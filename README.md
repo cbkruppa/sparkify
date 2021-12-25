@@ -23,7 +23,7 @@ For this project, I aimed to build a Machine Learning pipeline to identify users
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found in my blog  post available [here](https://carrie-kruppa.medium.com/if-i-can-do-ml-in-spark-so-can-you-e32a7b56275c). 
+The main findings of the code can be found in my blog  post available [here](https://carrie-kruppa.medium.com/predicting-churn-dsnd-capstone-project-4185592dded6). 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
